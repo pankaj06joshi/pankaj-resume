@@ -285,6 +285,10 @@ img {
   }
 }
 
+.experience_ul li {
+  margin-top: 10px
+}
+
 .nav__logo,
 .nav__toggle {
   color: var(--title-color);
